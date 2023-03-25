@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "author": "Maxim Mirochnik, Itamar Atia, Ofir Shlomay",
+  "author": "Maxim Mirochnik, Ofir Shlomay",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

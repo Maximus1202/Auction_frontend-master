@@ -31,7 +31,7 @@ const MyAuctions = () => {
           <h6>Item Name</h6>
         </div>
         <div style={{width: "150px"}} className="my-auctions-top p-1 pb-0 rounded">
-          <h6>Initial Price (NIS)</h6>
+          <h6>Initial Price (USD)</h6>
         </div>
         <div style={{width: "180px"}} className="my-auctions-top p-1 pb-0 rounded">
           <h6>Start Date</h6>

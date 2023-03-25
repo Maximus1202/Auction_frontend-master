@@ -8,7 +8,7 @@ const Footer = () => {
       <Row>        
         <div className="mx-auto pt-3">
           <hr className="my-0 bg-secondary"/>
-          <p className="mb-0">Project by: Maxim Mirochnik, Itamar Atia, Ofir Shlomay</p>
+          <p className="mb-0">Project by: Maxim Mirochnik, Ofir Shlomay</p>
           <p>https://github.com/Maximus1202</p>
         </div>
       </Row>      
